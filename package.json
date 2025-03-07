@@ -1,14 +1,20 @@
 {
   "name": "victor-personal-colors",
   "displayName": "victor personal colors",
-  "description": "",
+  "description": "custom color theme",
   "version": "0.0.1",
+  "license": "MIT",
   "engines": {
-    "vscode": "^1.98.0"
+    "vscode": "^1.96.0"
   },
   "categories": [
     "Themes"
   ],
+  "homepage": "https://github.com/victor-carv/vscode-custom-colors",
+  "repository": {
+      "type" : "git",
+      "url" : "https://github.com/victor-carv/vscode-custom-colors.git"
+  },
   "contributes": {
     "themes": [
       {
