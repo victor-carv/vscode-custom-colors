@@ -1,0 +1,21 @@
+{
+  "name": "victor-personal-colors",
+  "displayName": "victor personal colors",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "MY_THEME",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MY_THEME-color-theme.json"
+      }
+    ]
+  }
+}
